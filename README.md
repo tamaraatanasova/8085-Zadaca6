@@ -8,7 +8,7 @@ address 0Ah data 0Ch is transmitted. To write
 assembly program based on µP 8085. The frequency of
 the oscillator is 4MHz.
 
-![Screenshot (1)]()
+![Screenshot (1)](https://github.com/tamaraatanasova/8085-Zadaca6/blob/main/zad6sl1.png)
 
 Exercise of Low Level Programming with 8085 Assembly Lecture
 
